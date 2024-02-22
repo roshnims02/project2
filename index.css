@@ -1,0 +1,300 @@
+.inbox{
+    /* background-color:white; */
+    height: 400px;
+    margin:10px 0px;
+   
+
+}
+.inbox1{
+    background-color: whitesmoke;
+    height:70px;
+    margin:10px 0px;
+      
+}
+.inbox2{
+    /* background-color: whitesmoke; */
+    height:600px;
+    margin:10px 0px;
+      
+}
+.inbox3{
+    background-color:whitesmoke;
+   min-height:300px;
+   margin-top:5% ;
+   
+      
+}
+.sec4{
+    background-color:whitesmoke;
+    padding: 20px 0px;
+}
+.inbox4{
+    background-color:whitesmoke;
+    height:70px;
+    margin:10px 0px;
+    text-align: center;
+    font-weight: bold;
+    font-size: xx-large;
+
+      
+}
+.sec5{
+    background-color:whitesmoke;
+    padding: 20px 0px;
+}
+.inbox5{
+    background-color: whitesmoke;
+    min-height:400px;
+    margin:10px 0px;
+      
+}
+.sec6{
+    background-color:whitesmoke;
+    padding: 20px 0px;
+}
+.inbox6{
+    background-color:whitesmoke;
+    min-height:70px;
+    margin:10px 0px;
+      
+}
+.sec7{
+    background-color:whitesmoke;
+    padding: 20px 0px;
+}
+.inbox7{
+    background-color:whitesmoke;
+    height:70px;
+    margin:10px 0px;
+      
+}
+.sec8{
+    background-color:whitesmoke;
+    padding: 20px 0px;
+}
+.inbox8{
+    background-color: whitesmoke;
+    height:160px;
+    margin:10px 0px;
+    text-align: center;
+      
+}
+.sec9{
+    background-color:whitesmoke;
+    padding: 20px 0px;
+}
+.inbox9{
+    background-color: whitesmoke;
+    height:50px;
+    margin:10px 0px;
+      
+}
+.sec10{
+    background-color:whitesmoke;
+    padding: 20px 0px;
+}
+.inbox10{
+    background-color: whitesmoke;
+    height:50px;
+    margin:10px 0px;
+      
+}
+.sec11{
+    background-color:whitesmoke;
+    padding: 20px 0px;
+}
+.sec1{
+    background-image: url(May-5th-AI-News-The-Riiphone3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner{
+    padding: 8rem 3rem;
+}
+.ai{
+    color: black;
+    margin-top:50px;
+    display: inline-block;
+}
+.CLASS3{
+    margin: 5px;
+    color: black;
+    text-decoration: none;
+}
+    
+
+.hyper{
+    text-decoration: none;
+    color: black;
+}
+
+.ip{
+    padding: auto;
+}
+.tt{
+    color: red;
+}
+.yy{
+    color: red;
+}
+.uu{
+    color: red;
+}
+.uu1{
+    text-decoration: underline;
+    padding: 15px 0px;
+    text-align: center;
+    height:100px;
+}
+.vv{
+    text-align: center;
+}
+.ff{
+    color:red;
+}
+.ff1{
+    text-decoration: underline; 
+    text-align: center;
+}
+.ff2{
+    text-align: center;
+}
+.gg{
+    text-align: center;
+    font-size: medium;
+}
+.rr{
+    padding: 8px 20px;
+    background-color: red;
+}
+.bb{
+    text-align: center;
+    padding:2PX 20PX;
+}
+.nn{
+    height: 150px;px;
+   width: 150px;
+    border-radius:70%;
+    background-size: cover;
+}
+
+.ram{
+    text-align: center;
+}
+.in{
+    padding: auto;
+}
+.io{
+    padding: auto;
+}
+.sec10{
+    background-color:whitesmoke;
+    padding: 20px 0px;
+    text-align: center;
+
+}
+.inbox9{
+    background-color: whitesmoke;
+    height:40px;
+    margin-top: 10%;
+    
+}
+.dot{
+    color: black;
+}
+.cc{
+    background-image: url(lab.avif);
+    background-repeat: no-repeat;
+    background-size: cover;  
+}   
+.cc5{
+    position: relative;
+}
+
+.ee{
+    text-align: center;
+    margin-top: 15px;
+}
+.inbox10{
+    /* background-color:black; */
+    height:50px;
+    margin:15px;
+
+    
+    text-align: center;
+
+}
+.inbox51{
+    min-height: 250px;
+}
+.inbox52{
+    min-height: 250px;
+}
+.sec11{
+    background-color:whitesmoke;
+    padding: 20px 0px;
+    text-align: center;
+
+    .rr1{
+        color: grey;
+        text-transform:uppercase;
+    }
+}
+@media(max-width:468px) {
+    .inbox2{
+        height:250px;;
+    }
+    
+}
+@media(max-width:468px) {
+   
+    
+}
+
+
+@media(max-width:768px) {
+  
+}
+
+@media(max-width:468px) {
+    .uu1{
+        height:51px;;
+    }
+    
+}
+@media(max-width:468px) {
+    .ee{
+        height:0px;;
+    }
+    
+}
+@media(max-width:468px) {
+  
+   
+}
+@media(max-width:468px) {
+    .para{
+        
+    }
+
+    .inbox5{
+        min-height:96px; ;
+    }
+ 
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
